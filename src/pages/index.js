@@ -5,8 +5,9 @@ import getRandomFeatureObject from "../../utils/randomFeatureGenerator";
 
 export default function Home() {
   const randomFeatures = getRandomFeatureObject();
-  const handleUpvoteClick = () =>{
 
+  // handle click changes and requests here
+  const handleUpvoteClick = () =>{
   }
   
   return (
